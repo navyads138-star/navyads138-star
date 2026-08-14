@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="./banner.svg" width="100%" alt="Navya GitHub Banner"/>
+
+</div>
+
+<br>
+
 # 👋 Hi, I'm Navya!
 
 ### 💻 CSE (Applied AI) Student | 🤖 AI & Data Science Enthusiast | 🚀 Developer | ✨ Open Source Contributor
