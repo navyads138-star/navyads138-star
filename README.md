@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navya!
 
-### 💻 CSE (Applied AI) Student | 🤖 AI & Data Science Enthusiast | 🚀 Developer | 🌱 Open Source Contributor
+### 💻 CSE (Applied AI) Student | 🤖 AI & Data Science Enthusiast | 🚀 Developer | ✨ Open Source Contributor
 
 Welcome to my GitHub! I'm **Navya**, a **B.Tech Computer Science Engineering (Applied AI)** student at **St. Joseph’s University, Chennai**.
 
