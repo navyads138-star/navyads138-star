@@ -1,415 +1,377 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                    NAVYA D • GITHUB PROFILE                       -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
+<!-- MAIN CINEMATIC BANNER — KEEPING YOUR banner.svg -->
 <img src="./banner.svg" width="100%" alt="Navya GitHub Banner"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Python+%7C+React+%7C+JavaScript;Open+Source+Contributor;Building+%7C+Learning+%7C+Creating" />
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/navyads138-star">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=D946A8&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+NAVYA.DEV...;%3E+AI+%7C+DATA+SCIENCE+%7C+DEVELOPMENT;%3E+BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+CREATING;%3E+OPEN+SOURCE+CONTRIBUTOR;%3E+SYSTEM.STATUS%3A+ONLINE" alt="Typing Animation"/>
+</a>
+
+<br>
+
+<!-- STATUS TERMINAL -->
+<img src="https://img.shields.io/badge/%3E%20SYSTEM-ONLINE-6A0D45?style=for-the-badge&labelColor=120914"/>
+<img src="https://img.shields.io/badge/%3E%20MODE-BUILDING-D946A8?style=for-the-badge&labelColor=120914"/>
+<img src="https://img.shields.io/badge/%3E%20FOCUS-AI%20%2B%20DATA-8B2FC9?style=for-the-badge&labelColor=120914"/>
+
+<br><br>
+
+<!-- CINEMATIC MAGENTA SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0D45,50:D946A8,100:8B2FC9&height=4&section=header" width="82%"/>
+
+<br>
+
+<!-- CODING VIBE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2400&pause=700&color=B86BFF&center=true&vCenter=true&width=700&lines=while(alive)+%7B+learn();+build();+repeat();+%7D;git+commit+-m+%22building+something+better%22;python+%3E%3E%3E+creating+ideas+into+reality;AI+%2B+DATA+%2B+CODE+%3D+%E2%9C%A8" alt="Coding Animation"/>
 
 </div>
 
 <br>
 
-# 👋 Hi, I'm Navya!
+---
 
 <div align="center">
 
-### 💻 CSE (Applied AI) Student
+## 💗 `HELLO_WORLD()`
 
-### 🤖 AI & Data Science Enthusiast • 🚀 Developer • ✨ Open Source Contributor
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D946A8&text=Hello%2C%20I'm%20Navya!&height=70&fontSize=42&animation=fadeIn&fontAlignY=55" width="100%"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/CSE%20%7C%20APPLIED%20AI-6A0D45?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20%26%20DATA%20SCIENCE-D946A8?style=flat-square"/>
+<img src="https://img.shields.io/badge/DEVELOPER-8B2FC9?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-CONTRIBUTOR-B86BFF?style=flat-square"/>
 
 </div>
 
-Welcome to my GitHub! I'm **Navya**, a **B.Tech Computer Science Engineering (Applied AI)** student at **St. Joseph’s University, Chennai**.
+<br>
 
-I'm passionate about **Artificial Intelligence, Data Science, Software Development, and problem-solving**. I enjoy building practical projects, exploring new technologies, and contributing to open-source projects.
+> 💫 **Welcome to my GitHub!**
+>
+> I'm **Navya**, a **B.Tech Computer Science Engineering (Applied AI)** student at **St. Joseph’s University, Chennai**.
+>
+> 🤖 I'm passionate about **Artificial Intelligence, Data Science, Software Development, and problem-solving**.
+>
+> 💡 I enjoy building practical projects, exploring new technologies, experimenting with ideas, and contributing to open-source projects.
 
----
-
-## ✦ ABOUT ME
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-Pursuing **B.Tech CSE (Applied AI)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-Exploring **Artificial Intelligence & Machine Learning**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Data
-
-Interested in **Data Science & Data Analysis**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Development
-
-Building projects with **Python, JavaScript, React & SQL**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-Exploring **modern Web Development**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐙 Open Source
-
-Contributing to and learning from **Open Source**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving
-
-Practicing **Data Structures & Algorithms**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 Git & GitHub
-
-Working with **Git, GitHub and collaborative workflows**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎨 Creative Technology
-
-Interested in **Art, Design & Creative Technology**
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✨ Growth
-
-Always **learning, building, and improving**
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-## ⚡ TECH STACK
+<br>
 
 <div align="center">
 
-### Languages
-
-<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-EC4899?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-A855F7?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-DB2777?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0D45,50:D946A8,100:8B2FC9&height=3&section=header" width="72%"/>
 
 <br><br>
 
-### Frameworks & Libraries
+### ✦ `CURRENTLY_RUNNING`
 
-<img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-8B5CF6?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material_UI-EC4899?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-A855F7?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=E8A7FF&center=true&vCenter=true&width=700&lines=%5B01%5D+Building+real-world+projects;%5B02%5D+Learning+AI+%26+Machine+Learning;%5B03%5D+Exploring+Data+Science;%5B04%5D+Contributing+to+Open+Source;%5B05%5D+Improving+DSA+%26+Problem+Solving" alt="Current Activities"/>
+
+</div>
+
+---
+
+# 🚀 `ABOUT_ME`
+
+<div align="center">
+
+| `01` | `02` | `03` | `04` |
+|:---:|:---:|:---:|:---:|
+| 🚀 | 🤖 | 🌐 | 🧠 |
+| **BUILD** | **LEARN** | **EXPLORE** | **IMPROVE** |
+| Real-world projects | AI & Technology | Web Development | Problem Solving |
+
+</div>
+
+<br>
+
+- 🎓 Pursuing **B.Tech CSE (Applied AI)**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 📊 Interested in **Data Science & Data Analysis**
+- 💻 Building projects with **Python, JavaScript, React & SQL**
+- 🌐 Exploring **Web Development**
+- 🐙 Contributing to **Open Source**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔧 Working with **Git & GitHub**
+- 🎨 Interested in **Art, Design & Creative Technology**
+- ✨ Always learning, building, and improving
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=D946A8&center=true&vCenter=true&width=750&lines=%3E%3E%3E+PASSION+%3A+BUILDING+WITH+CODE;%3E%3E%3E+INTEREST+%3A+AI+%2B+DATA;%3E%3E%3E+MISSION+%3A+KEEP+LEARNING;%3E%3E%3E+STATUS+%3A+NEVER+STOP+IMPROVING" alt="Terminal Animation"/>
+
+</div>
+
+---
+
+# 💻 `TECH_STACK`
+
+<div align="center">
+
+### ⟡ LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&theme=dark" />
 
 <br><br>
 
-### Tools & Platforms
+### ⟡ FRAMEWORKS & LIBRARIES
 
-<img src="https://img.shields.io/badge/Git-DB2777?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-7C3AED?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-A855F7?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codespaces-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,redux,materialui&theme=dark" />
 
-</div>
+<br><br>
 
-### Areas of Interest
+### ⟡ DATA & DEVELOPMENT
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=pandas,jupyter,vscode,git,github&theme=dark" />
 
-`Artificial Intelligence` • `Data Science` • `Machine Learning`
-`Web Development` • `Open Source` • `Problem Solving`
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0D45,50:D946A8,100:8B2FC9&height=3&section=header" width="70%"/>
 
 </div>
 
 ---
 
-## ◈ FEATURED PROJECTS
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛒 QuickCart
-
-A lightweight **shopping cart application built with React**, focused on creating a simple and interactive shopping experience.
-
-**React • JavaScript**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Auto-Annotated Portfolio
-
-A **TypeScript-based portfolio project** focused on presenting personal projects and information through a modern web experience.
-
-**TypeScript • Web Development**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 👥 Squad Portfolio
-
-A collaborative portfolio project created to showcase **team members, projects, skills, and achievements**.
-
-**Web Development • Collaboration**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧩 Mini Web Projects
-
-A collection of small web development projects created to practice **HTML, CSS, UI design, and front-end development concepts**.
-
-**HTML • CSS • JavaScript**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python Problem Solving
-
-A collection of Python solutions covering **programming fundamentals, algorithms, logical problem-solving, and coding practice**.
-
-**Python • DSA • Problem Solving**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💼 Portfolio Website
-
-My personal portfolio website showcasing my **skills, projects, achievements, and learning journey**.
-
-**Web Development • Design**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔧 GitHub Practice
-
-A repository created to strengthen my understanding of **Git, GitHub, repositories, commits, branches, and collaborative workflows**.
-
-**Git • GitHub • Collaboration**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 More Projects
-
-Continuously experimenting with **new ideas, technologies, and practical projects**.
-
-**Build • Learn • Improve**
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⟡ OPEN SOURCE CONTRIBUTIONS
-
-I've also explored and contributed to real-world open-source projects, gaining experience with **collaborative development and professional Git workflows**.
+# 🧬 `AREAS_OF_INTEREST`
 
 <div align="center">
 
-| Project            | What I Explored                                                         |
-| ------------------ | ----------------------------------------------------------------------- |
-| 🔹 **Mathesar**    | Open-source spreadsheet-like interface for working with PostgreSQL data |
-| 🔹 **Hugo Docs**   | Documentation and open-source development workflows                     |
-| 🔹 **Material UI** | React component library and Material Design                             |
-| 🔹 **tldr**        | Collaborative command-line cheatsheet project                           |
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│       🤖 ARTIFICIAL INTELLIGENCE                           │
+│                                                            │
+│       📊 DATA SCIENCE                                      │
+│                                                            │
+│       🧠 MACHINE LEARNING                                  │
+│                                                            │
+│       🌐 WEB DEVELOPMENT                                   │
+│                                                            │
+│       🐙 OPEN SOURCE                                       │
+│                                                            │
+│       💡 PROBLEM SOLVING                                   │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
 
 </div>
+
+---
+
+# 🔓 `OPEN_SOURCE`
+
+> **Exploring real-world repositories. Learning how professional software is built, maintained, documented, and improved.**
+
+<br>
+
+### 🟣 Mathesar
+
+Forked from **Mathesar Foundation** — an open-source spreadsheet-like interface for working with PostgreSQL data.
+
+`PostgreSQL` `Open Source` `Web Development`
+
+<br>
+
+### 🟣 Hugo Docs
+
+Forked from the **Hugo** project — explored documentation and open-source development workflows.
+
+`Documentation` `Open Source` `Git`
+
+<br>
+
+### 🟣 Material UI
+
+Forked from **MUI** — explored a popular React component library implementing Google's Material Design.
+
+`React` `Material UI` `Frontend`
+
+<br>
+
+### 🟣 tldr
+
+Forked from **tldr-pages** — explored the collaborative command-line cheatsheet project.
+
+`CLI` `Documentation` `Open Source`
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2300&pause=600&color=B86BFF&center=true&vCenter=true&width=700&lines=git+clone+%E2%86%92+git+branch+%E2%86%92+git+commit+%E2%86%92+git+push;issues+%E2%86%92+pull+requests+%E2%86%92+code+review;learning+%E2%86%92+contributing+%E2%86%92+improving" alt="Git Workflow Animation"/>
+
+</div>
+
+<br>
 
 These projects have helped me understand **issues, branches, pull requests, repositories, documentation, code collaboration, and open-source contribution workflows**.
 
 ---
 
-## ◌ CURRENTLY LEARNING
+# 📚 `CURRENTLY_LEARNING`
 
 <div align="center">
 
-🤖 **Artificial Intelligence & Machine Learning**
+<table>
+<tr>
+<td align="center" width="200">
 
-📈 **Data Science & Data Analysis**
+### 🤖
+**ARTIFICIAL INTELLIGENCE**
 
-⚛️ **React & Front-End Development**
+</td>
 
-🐍 **Python & JavaScript**
+<td align="center" width="200">
 
-🧩 **Data Structures & Algorithms**
+### 📈
+**DATA SCIENCE**
 
-🌐 **Full-Stack Development**
+</td>
 
-🔓 **Open-Source Contribution**
+<td align="center" width="200">
+
+### ⚛️
+**REACT**
+
+</td>
+
+<td align="center" width="200">
+
+### 🐍
+**PYTHON**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧩
+**DSA**
+
+</td>
+
+<td align="center">
+
+### 🌐
+**FULL STACK**
+
+</td>
+
+<td align="center">
+
+### 🐙
+**OPEN SOURCE**
+
+</td>
+
+<td align="center">
+
+### 📊
+**DATA ANALYSIS**
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ◎ GOALS
+# ⚙️ `DEVELOPER_MODE`
 
 <div align="center">
 
-✨ Build meaningful real-world projects
-
-<br>
-
-✨ Grow my skills in AI and software development
-
-<br>
-
-✨ Make more open-source contributions
-
-<br>
-
-✨ Improve my problem-solving abilities
-
-<br>
-
-✨ Collaborate with developers and learn from the community
-
-<br>
-
-✨ Keep experimenting with new technologies
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    NAVYA.DEV TERMINAL                        │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  > booting developer environment...                         │
+│                                                              │
+│  [████████████████████████████████████████] 100%            │
+│                                                              │
+│  ✓ Python environment        ONLINE                          │
+│  ✓ Git environment           ONLINE                          │
+│  ✓ React environment         ONLINE                          │
+│  ✓ AI workspace              ONLINE                          │
+│  ✓ Data workspace            ONLINE                          │
+│  ✓ Open Source mode          ACTIVE                          │
+│                                                              │
+│  STATUS: READY TO BUILD                                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📊 GITHUB ACTIVITY
+# 🎯 `GOALS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navyads138-star&show_icons=true&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=F472B6&text_color=D1D5DB&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navyads138-star&hide_border=true&background=00000000&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=D1D5DB&currStreakNum=FFFFFF&sideNums=FFFFFF" height="170"/>
+| ✦ | GOAL |
+|:---:|:---|
+| 🚀 | Build meaningful real-world projects |
+| 🤖 | Grow my skills in AI and software development |
+| 🐙 | Make more open-source contributions |
+| 🧠 | Improve my problem-solving abilities |
+| 🤝 | Collaborate with developers and learn from the community |
+| ✨ | Keep experimenting with new technologies |
 
 </div>
 
 ---
 
-## 💻 LEETCODE
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/navya_d16?theme=dark&font=baloo&ext=heatmap" width="600"/>
-
-<br><br>
-
-**@navya_d16**
-
-</div>
-
----
-
-## 📫 CONNECT WITH ME
+# 🌐 `CONNECT_WITH_ME`
 
 <div align="center">
 
 <a href="mailto:navyanandh16@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-navyanandh16%40gmail.com-6A0D45?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/navya-d-a1b187383/">
-<img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-D946A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://github.com/navyads138-star">
-<img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-@navyads138--star-8B2FC9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
 
 <a href="https://leetcode.com/u/navya_d16/">
-<img src="https://img.shields.io/badge/LEETCODE-DB2777?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-@navya__d16-B86BFF?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💡 MY PHILOSOPHY
+# 💡 `MY_PHILOSOPHY`
 
 <div align="center">
 
-### **Learn continuously. Build consistently. Create something meaningful.** 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&duration=3500&pause=1000&color=D946A8&center=true&vCenter=true&width=800&lines=Learn+continuously.;Build+consistently.;Create+something+meaningful." alt="Philosophy Animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0D45,50:D946A8,100:8B2FC9&height=4&section=header" width="65%"/>
 
 </div>
 
@@ -417,7 +379,9 @@ These projects have helped me understand **issues, branches, pull requests, repo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=navyads138-star&label=PROFILE+VIEWS&color=C084FC&style=for-the-badge"/>
+### `> END_OF_README`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=B86BFF&center=true&vCenter=true&width=600&lines=%5Bsystem%5D+connection+stable...;%5Bsystem%5D+keep+building...;%5Bsystem%5D+see+you+in+the+next+commit+%F0%9F%92%9C" alt="End Animation"/>
 
 <br><br>
 
@@ -425,6 +389,10 @@ These projects have helped me understand **issues, branches, pull requests, repo
 
 <br>
 
-### Thanks for visiting my GitHub! 💜
+**Thanks for visiting my GitHub! 💜**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0D45,50:D946A8,100:8B2FC9&height=120&section=footer" width="100%"/>
 
 </div>
