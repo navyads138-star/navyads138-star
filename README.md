@@ -2,7 +2,7 @@
 
 ### 💻 CSE (Applied AI) Student | 🤖 AI & Data Science Enthusiast | 🚀 Developer | 🌱 Open Source Contributor
 
-Welcome to my GitHub! I'm **Navya**, a 2nd-year **B.Tech Computer Science Engineering (Applied AI)** student at **St. Joseph’s University, Chennai**.
+Welcome to my GitHub! I'm **Navya**, a **B.Tech Computer Science Engineering (Applied AI)** student at **St. Joseph’s University, Chennai**.
 
 I'm passionate about **Artificial Intelligence, Data Science, Software Development, and problem-solving**. I enjoy building practical projects, exploring new technologies, and contributing to open-source projects.
 
